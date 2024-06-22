@@ -1,0 +1,12 @@
+node_modules
+img
+res
+# les scripts à la racine sont des utilitaires nodeJS à ne pas commit
+/*.js
+
+package*.json
+eslint.config.mjs
+
+#obfuscat
+cat-save
+
